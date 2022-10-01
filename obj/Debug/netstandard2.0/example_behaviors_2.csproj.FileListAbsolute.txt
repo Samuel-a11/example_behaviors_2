@@ -1,0 +1,15 @@
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.AssemblyInfo.cs
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\bin\Debug\netstandard2.0\example_behaviors_2.deps.json
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\bin\Debug\netstandard2.0\example_behaviors_2.dll
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\bin\Debug\netstandard2.0\example_behaviors_2.pdb
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.dll
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\refint\example_behaviors_2.dll
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\example_behaviors_2.pdb
+C:\Users\samue\source\repos\example_behaviors_2\example_behaviors_2\obj\Debug\netstandard2.0\ref\example_behaviors_2.dll

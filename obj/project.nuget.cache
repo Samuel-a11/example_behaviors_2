@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGGVWTIoPIrWPYl0+YVxzvJMA7Ta0b34RnKXXfPvgV7he6pLrF3VgYYmBGVDcmDxB060ksqi8a0a7lXMAdgPvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\repos\\example_behaviors_2\\example_behaviors_2\\example_behaviors_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
